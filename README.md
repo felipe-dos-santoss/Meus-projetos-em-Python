@@ -1,2 +1,2 @@
 #  Projetos 
- aprendendo transferir repositório de vscode para o Git e Github
+ Transferindo projetos em Python do vscode para repositório do Git e Github
